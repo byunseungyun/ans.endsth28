@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://ans.endsth.xyz</loc>
-      <lastmod>2016-09-20T00:59:29+09:00</lastmod>
+      <lastmod>2016-09-20T01:17:56+09:00</lastmod>
       <changefreq>always</changefreq>
       <priority>1.0000</priority>
     </url>
     <url>
       <loc>http://ans.endsth.xyz/feed.xml</loc>
-      <lastmod>2016-09-20T00:59:29+09:00</lastmod>
+      <lastmod>2016-09-20T01:17:56+09:00</lastmod>
       <changefreq>always</changefreq>
       <priority>1.0000</priority>
     </url>
@@ -28,13 +28,13 @@
   
     <url>
       <loc>http://ans.endsth.xyz/about</loc>
-      <lastmod>2016-09-20T00:59:29+09:00</lastmod>
+      <lastmod>2016-09-20T01:17:56+09:00</lastmod>
       <changefreq>always</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
       <loc>http://ans.endsth.xyz/business</loc>
-      <lastmod>2016-09-20T00:59:29+09:00</lastmod>
+      <lastmod>2016-09-20T01:17:56+09:00</lastmod>
       <changefreq>always</changefreq>
       <priority>0.5</priority>
     </url>
