@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://ans.endsth.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
